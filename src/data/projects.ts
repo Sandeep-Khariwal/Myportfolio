@@ -7,20 +7,20 @@ export type Project = {
 
 const projects: Project[] = [
   {
-    title: "Arch Linux Package",
-    techs: ["bash"],
-    link: "https://codenanshu.in/projects/ttf-apple-fonts/",
+    title: "Batch mate App",
+    techs: ["ReactJs","NodeJs", "ExpressJs", "MondoDB"],
+    link: "https://64d9c28b7b37a0047c01ac7f--batch-mate-app.netlify.app/",
   },
   {
-    title: "Firstly",
-    techs: ["React Native", "JavaScript"],
-    link: "https://codenanshu.in/projects/firstly/",
+    title: "Contact-Manager",
+    techs: ["ReactJs","NodeJs", "ExpressJs", "MondoDB"],
+    link: "https://contactmanagerproject.netlify.app/",
   },
   {
-    title: "Astro / Template",
-    techs: ["Astro"],
-    link: "/"
-  },
+    title: "E-commerce",
+    techs: ["ReactJs","NodeJs", "ExpressJs", "MondoDB"],
+    link: "https://transcendent-twilight-a8d98c.netlify.app/",
+  }
 ];
 
 export default projects;
