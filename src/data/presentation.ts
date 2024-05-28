@@ -14,7 +14,7 @@ const presentation: Presentation = {
   mail: "sandeepkhariwal01@gmail.com",
   title: "Hi, I’m Sandeep 👋",
   description:
-    "Howdy, i'm a *javascript software programmer* with *self projects* of web experience.  I have successfully completed various projects, on MERN stack",
+    "Hy, i'm a *javascript software programmer* with *self projects* of web experience.  I have successfully completed various projects, on MERN stack",
   socials: [
     {
       label: "LinkedIn",
